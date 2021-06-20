@@ -23,8 +23,8 @@ body {
   width: 164px;
   height: 40px;
   font-size: 1rem;
-  /* text-decoration: none;
-  display: inline-block; */
+  /* text-decoration: none; */
+  /* display: inline-block; */
 }
 
 /* hero section */
@@ -44,6 +44,9 @@ body {
   width: 164px;
   height: 40px;
   font-size: 1rem;
+}
+.hero i {
+  margin-right: 10px;
 }
 
 /* main section */
