@@ -16,7 +16,7 @@ const Home = () => {
           <h1>STUDY, WORKOUT, AND CHILL TOGETHER</h1>
           <p>
             MEET PEOPLE IN COMMUNITIES WHICH COMBINE AESTHETIC ART AND MUSIC FOR
-            YOUR FAVORITE ACTIVITIES .
+            YOUR FAVORITE ACTIVITIES
           </p>
         </div>
 
