@@ -32,7 +32,8 @@ const Home = () => {
           className="image"
           src={img1}
           alt=""
-          style={{ width: "1400px", height: "470px" }}
+          width="1400px"
+          height="465px"
         />
       </div>
 
